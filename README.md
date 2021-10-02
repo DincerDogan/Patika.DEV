@@ -1,2 +1,2 @@
 # Patika.DEV
- patika.dev / ödevler&projeler
+ patika.dev / ödevler & projeler
